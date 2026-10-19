@@ -1,6 +1,6 @@
 ### Hi, I'm Louai Benaissa
 
-**MVA student (ENS Paris-Saclay)** · AI Engineer Apprentice at **Renault Group / Ampere**
+**MVA student (ENS Paris-Saclay)**
 
 I work where applied mathematics meets machine learning, from optimization and representation learning to the models built on top of them.
 
@@ -9,9 +9,10 @@ I work where applied mathematics meets machine learning, from optimization and r
 #### Currently
 - Studying and **reimplementing state-of-the-art LLMs** from the papers up
 - Doing the same for **speech models** (ASR, TTS, self-supervised audio)
+- Exploring **signal processing** as a lens on learned representations
 
 #### Experience
-- **AI Engineer Apprentice, R&D**, Renault Group, Ampere Software & Technology
+- **AI Engineer Apprentice, R&D**, Renault Group, Ampere Software & Technology (2025–2026)
   LLMs and AI agents in an applied R&D setting
 
 #### Interests
